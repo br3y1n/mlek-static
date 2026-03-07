@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://mylittleexplorerskindergarten.com
+Sitemap: https://mylittleexplorerskindergarten.com/sitemap.xml
